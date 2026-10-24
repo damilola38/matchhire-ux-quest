@@ -18,11 +18,11 @@ I also changed my own earlier direction. My first prompts told the AI to rename 
 ### What I added
 I added two things to the design, both aimed at the same problem.
 
-**1. A clearer entry point.** I reworked the entry point compared to the existing website. The top navigation now has two clearly labeled paths, "Job Seeker" and "Employer," so a new visitor can tell right away which one is for them. On the existing site, the entry points were easy to confuse, and that confusion is what sent new users down the wrong path.
+**1. A clearer entry point.** I reworked the entry point compared to the existing website. The top navigation now has two clearly labeled paths, "Job Seeker" and "Employer," so a new visitor can tell right away which one is for them. On the existing site, the entry points were easy to confuse (entry for job seekers platformcalled "job search"), and that confusion is what sent new users down the wrong path.
 
 **2. A separate "Job Openings" link.** I added a "Job Openings" link to the Job Seeker navigation, next to "Must Hunt." On the live site, open roles sit under "Must Hunt," a name that doesn't signal job openings.
 
 I added these to solve the problem I identified: because of the confusing entry point and the unclear naming, new visitors couldn't find where to apply for jobs. In testing, 3 of 3 could not find open roles without help. Together, the two changes let a new job seeker reach open roles in 2 clicks (Job Seeker → Job Openings), with no account prompt.
 
 ### Why I made these choices
-Both changes address the same chain: unclear entry point, then unclear naming, then not finding roles. Everything else stayed close to the existing site, so any improvement in the 2-click test comes from these navigation changes and not from a different look. It also keeps the redesign small and realistic for the MatchHire team to build.
+Both changes address the same chain: unclear entry point, then unclear naming (entry for job seekers platformcalled "job search"), then not finding roles. Everything else stayed close to the existing site, so any improvement in the 2-click test comes from these navigation changes and not from a different look. It also keeps the redesign small and realistic for the MatchHire team to build.
