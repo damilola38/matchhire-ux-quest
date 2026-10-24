@@ -36,3 +36,4 @@ Help new job seekers reach open roles in 2 clicks, without an account prompt, by
 - Stitch screens: https://stitch.withgoogle.com/projects/14394235379133752772
 - Figma redesign and prototype: https://www.figma.com/design/uEOvm1bFwZFRqLvUkRp7cY/Match-Hire-Redesign?node-id=0-1&t=QCMc0cpHw9guegmr-1, https://www.figma.com/proto/uEOvm1bFwZFRqLvUkRp7cY/Match-Hire-Redesign?page-id=0%3A1&node-id=1-574&viewport=226%2C270%2C0.06&t=7Hj5ffa7AOnqtex7-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=1%3A574
 - Demo video of the 2-click path: [link]
+- AI Agent Log: https://github.com/damilola38/matchhire-ux-quest/blob/main/AI%20Agent%20Log
